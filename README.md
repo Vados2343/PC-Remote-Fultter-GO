@@ -36,11 +36,6 @@
  
 
 ---
-
- 
-
-## Features
-
  
 
 ## ✨ Key Features
