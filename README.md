@@ -220,20 +220,13 @@
 ---
 
  
-
-## API Endpoints
-
- 
+## 💻 API Endpoints
 
 | Endpoint | Method | Parameters | Description |
-
-|----------|--------|------------|-------------|
-
-| `/shutdown` | GET | `key` | Immediate shutdown |
-
-| `/reboot` | GET | `key` | Immediate reboot |
-
-| `/shutdown` | GET | `key`, `time` | Scheduled shutdown (time in seconds) |
+| :--- | :---: | :---: | :--- |
+| `/shutdown` | `GET` | `key` | Immediate shutdown |
+| `/reboot` | `GET` | `key` | Immediate reboot |
+| `/shutdown` | `GET` | `key`, `time` | Scheduled shutdown (time in seconds) |
 
  
 
