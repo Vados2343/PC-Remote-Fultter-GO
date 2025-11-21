@@ -29,9 +29,6 @@
 
 **PC Remote Control** - Remote PC power management application that allows you to shutdown or reboot your computer from your smartphone. The server runs on Windows (Go + Fyne GUI), and the mobile client is built with Flutter.
 
- 
-
-**PC Remote Control** - Приложение для удалённого управления питанием ПК, позволяющее выключать или перезагружать компьютер с телефона. Сервер работает на Windows (Go + Fyne GUI), мобильный клиент создан на Flutter.
 
  
 
